@@ -1,0 +1,248 @@
+ file no: 5
+mesh normal is outward: 0
+ file no: 6
+mesh normal is outward: 0
+ file no: 19
+mesh normal is outward: 0
+ file no: 25
+mesh normal is outward: 0
+ file no: 35
+mesh normal is outward: 0
+ file no: 44
+mesh normal is outward: 0
+ file no: 45
+mesh normal is outward: 0
+ file no: 55
+mesh normal is outward: 0
+ file no: 60
+mesh normal is outward: 0
+ file no: 61
+mesh normal is outward: 0
+ file no: 71
+mesh normal is outward: 0
+ file no: 79
+mesh normal is outward: 0
+ file no: 104
+mesh normal is outward: 0
+ file no: 108
+mesh normal is outward: 0
+ file no: 109
+mesh normal is outward: 0
+ file no: 112
+mesh normal is outward: 0
+ file no: 116
+mesh normal is outward: 0
+ file no: 117
+mesh normal is outward: 0
+ file no: 130
+mesh normal is outward: 0
+ file no: 134
+mesh normal is outward: 0
+ file no: 137
+mesh normal is outward: 0
+ file no: 140
+mesh normal is outward: 0
+ file no: 142
+mesh normal is outward: 0
+ file no: 143
+mesh normal is outward: 0
+ file no: 147
+mesh normal is outward: 0
+ file no: 200
+mesh normal is outward: 0
+ file no: 216
+mesh normal is outward: 0
+ file no: 218
+mesh normal is outward: 0
+ file no: 237
+mesh normal is outward: 0
+ file no: 243
+mesh normal is outward: 0
+ file no: 267
+mesh normal is outward: 0
+ file no: 269
+mesh normal is outward: 0
+ file no: 282
+mesh normal is outward: 0
+ file no: 289
+mesh normal is outward: 0
+ file no: 308
+mesh normal is outward: 0
+ file no: 310
+mesh normal is outward: 0
+ file no: 328
+mesh normal is outward: 0
+ file no: 348
+mesh normal is outward: 0
+ file no: 358
+mesh normal is outward: 0
+ file no: 360
+mesh normal is outward: 0
+ file no: 371
+mesh normal is outward: 0
+ file no: 406
+mesh normal is outward: 0
+ file no: 408
+mesh normal is outward: 0
+ file no: 418
+mesh normal is outward: 0
+ file no: 426
+mesh normal is outward: 0
+ file no: 433
+mesh normal is outward: 0
+ file no: 433
+mesh normal is outward: 0
+ file no: 438
+mesh normal is outward: 0
+ file no: 438
+mesh normal is outward: 0
+ file no: 441
+mesh normal is outward: 0
+ file no: 444
+mesh normal is outward: 0
+ file no: 447
+mesh normal is outward: 0
+ file no: 476
+mesh normal is outward: 0
+ file no: 477
+mesh normal is outward: 0
+ file no: 479
+mesh normal is outward: 0
+ file no: 484
+mesh normal is outward: 0
+ file no: 494
+mesh normal is outward: 0
+ file no: 497
+mesh normal is outward: 0
+ file no: 499
+mesh normal is outward: 0
+ file no: 509
+mesh normal is outward: 0
+ file no: 513
+mesh normal is outward: 0
+ file no: 520
+mesh normal is outward: 0
+ file no: 540
+mesh normal is outward: 0
+ file no: 541
+mesh normal is outward: 0
+ file no: 544
+mesh normal is outward: 0
+ file no: 559
+mesh normal is outward: 0
+ file no: 564
+mesh normal is outward: 0
+ file no: 571
+mesh normal is outward: 0
+ file no: 572
+mesh normal is outward: 0
+ file no: 573
+mesh normal is outward: 0
+ file no: 573
+mesh normal is outward: 0
+ file no: 573
+mesh normal is outward: 0
+ file no: 575
+mesh normal is outward: 0
+ file no: 580
+mesh normal is outward: 0
+ file no: 599
+mesh normal is outward: 0
+ file no: 602
+mesh normal is outward: 0
+ file no: 611
+mesh normal is outward: 0
+ file no: 617
+mesh normal is outward: 0
+ file no: 620
+mesh normal is outward: 0
+ file no: 653
+mesh normal is outward: 0
+ file no: 671
+mesh normal is outward: 0
+ file no: 673
+mesh normal is outward: 0
+ file no: 679
+mesh normal is outward: 0
+ file no: 697
+mesh normal is outward: 0
+ file no: 702
+mesh normal is outward: 0
+ file no: 719
+mesh normal is outward: 0
+ file no: 732
+mesh normal is outward: 0
+ file no: 734
+mesh normal is outward: 0
+ file no: 741
+mesh normal is outward: 0
+ file no: 743
+mesh normal is outward: 0
+ file no: 748
+mesh normal is outward: 0
+ file no: 751
+mesh normal is outward: 0
+ file no: 752
+mesh normal is outward: 0
+ file no: 765
+mesh normal is outward: 0
+ file no: 777
+mesh normal is outward: 0
+ file no: 780
+mesh normal is outward: 0
+ file no: 785
+mesh normal is outward: 0
+ file no: 794
+mesh normal is outward: 0
+ file no: 806
+mesh normal is outward: 0
+ file no: 811
+mesh normal is outward: 0
+ file no: 814
+mesh normal is outward: 0
+ file no: 827
+mesh normal is outward: 0
+ file no: 837
+mesh normal is outward: 0
+ file no: 838
+mesh normal is outward: 0
+ file no: 845
+mesh normal is outward: 0
+ file no: 874
+mesh normal is outward: 0
+ file no: 879
+mesh normal is outward: 0
+ file no: 891
+mesh normal is outward: 0
+ file no: 910
+mesh normal is outward: 0
+ file no: 911
+mesh normal is outward: 0
+ file no: 918
+mesh normal is outward: 0
+ file no: 919
+mesh normal is outward: 0
+ file no: 937
+mesh normal is outward: 0
+ file no: 942
+mesh normal is outward: 0
+ file no: 943
+mesh normal is outward: 0
+ file no: 948
+mesh normal is outward: 0
+ file no: 959
+mesh normal is outward: 0
+ file no: 961
+mesh normal is outward: 0
+ file no: 969
+mesh normal is outward: 0
+ file no: 972
+mesh normal is outward: 0
+ file no: 972
+mesh normal is outward: 0
+ file no: 977
+mesh normal is outward: 0
+ file no: 977
+mesh normal is outward: 0
+ file no: 988
+mesh normal is outward: 0
