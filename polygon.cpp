@@ -585,7 +585,7 @@ void create_ground ( double length, double width, double height, double target_e
     double scale_x = length, scale_y = width, scale_z = height;
     Aff_transformation_3 transform(RT_num(scale_x), RT_num(0),      RT_num(0),      RT_num(0),
                                    RT_num(0),       RT_num(scale_y),RT_num(0),      RT_num(0),
-                                   RT_num(0),       RT_num(0),      RT_num(scale_z),RT_num(-0.005-0.5*scale_z),
+                                   RT_num(0),       RT_num(0),      RT_num(scale_z),RT_num(0),
                                                                                     RT_num(1));
     PMP::transform (transform, mesh); 
     //CGAL::Polygon_mesh_processing::triangulate_faces(mesh);

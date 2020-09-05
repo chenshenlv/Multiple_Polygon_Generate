@@ -1,3 +1,0 @@
-/media/jason/UData/home/soundpadlab/jason/pipeline_nonconvex/CMakeFiles/rebuild_cache.dir
-/media/jason/UData/home/soundpadlab/jason/pipeline_nonconvex/CMakeFiles/multi_polygon.dir
-/media/jason/UData/home/soundpadlab/jason/pipeline_nonconvex/CMakeFiles/edit_cache.dir

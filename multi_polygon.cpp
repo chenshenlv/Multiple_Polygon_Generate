@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   
   std::ofstream out;
   std::ifstream input;
-  int total_scene_no = 1000; // no. of result obj files
+  int total_scene_no = 5; // no. of result obj files
   int max_mesh_num_in_scene = 3;
   int edge_lower = 3; // no. of polygon edge low range
   int edge_upper = 7; // no. of polygon edge upper range
@@ -220,16 +220,24 @@ int main(int argc, char** argv)
     }
 
     Surface_mesh ground;
-    double length = 1, width = 1, height = 0.05;
+    double length = 1, width = 1, height = 0.1;
     create_ground(length, width, height, target_edge_length, ground);
 
-    if (!CGAL::Polygon_mesh_processing::do_intersect(merged_mesh,ground)) 
+    // if (!CGAL::Polygon_mesh_processing::do_intersect(merged_mesh,ground)) 
+    // { 
+    //   CGAL::copy_face_graph(ground, merged_mesh);
+          
+    // }
+    Surface_mesh result;
+    if (CGAL::Polygon_mesh_processing::do_intersect(merged_mesh,ground)) 
     { 
-      CGAL::copy_face_graph(ground, merged_mesh);
+      
+      bool valid_union = PMP::corefine_and_compute_intersection(merged_mesh,ground,result);
+      
           
     }
     out.open("merged_mesh.off"); 
-    out << merged_mesh;
+    out << result;
     out.close();
     off2obj(i,output_file_path);
     poly_no+=1;

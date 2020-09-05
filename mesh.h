@@ -24,7 +24,7 @@
 #include <CGAL/Polygon_mesh_processing/smooth_mesh.h>
 #include <CGAL/Polygon_mesh_processing/compute_normal.h>
 #include <CGAL/Polygon_mesh_processing/orientation.h>
-
+#include <CGAL/Polygon_mesh_processing/corefinement.h>
 
 
 typedef CGAL::Exact_predicates_inexact_constructions_kernel Kernel;

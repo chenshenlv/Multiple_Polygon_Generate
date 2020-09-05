@@ -246,3 +246,5 @@ mesh normal is outward: 0
 mesh normal is outward: 0
  file no: 988
 mesh normal is outward: 0
+ file no: 2
+mesh normal is outward: 0
